@@ -18,8 +18,6 @@
 -  **1st place** at IETE Students' Innovation Day for EDU-RESQ
 -  Currently exploring **TinyML on edge devices** and **IoT dashboards**
 - **Open to internships** in Embedded Systems / IoT / AI-Hardware integration
-- Based in Ranchi, India
-
 ---
 <p align="left">
   <a href="https://linkedin.com/in/sarbajit-ghosh-2b96232a0/">
