@@ -65,18 +65,6 @@
 | **CanSat PCB** | Dual-redundant 2-layer aerospace PCB with Gerber + 3D model | EasyEDA, Embedded |
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarbajitghosh27&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarbajitghosh27&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
----
 
 ## 🤝 Let's Connect
 
