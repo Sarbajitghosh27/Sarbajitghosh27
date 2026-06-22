@@ -13,7 +13,7 @@
 
 ##  About Me
 
-- 2nd year ECE student at **BIT Mesra, Ranchi** (2024–2028)
+- 3rd year ECE student at **BIT Mesra, Ranchi** (2024–2028)
 -  Interned at **India Space Lab** — designed a dual-redundant CanSat PCB
 -  **1st place** at IETE Students' Innovation Day for EDU-RESQ
 -  Currently exploring **TinyML on edge devices** and **IoT dashboards**
