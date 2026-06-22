@@ -115,7 +115,7 @@ Embedded Systems & IoT
   <img src="https://img.shields.io/badge/PCB%20Design-FF6600?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Edge%20AI-00D4FF?style=for-the-badge&logoColor=white" />
 </p>
-**Backend & AI Applications**
+Backend & AI Applications
  
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
