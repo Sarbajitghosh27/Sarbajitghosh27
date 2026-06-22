@@ -85,14 +85,14 @@ As part of India Space Lab's competitive **CanSat Program**, I engineered a **du
  
 ## Tech Stack
  
-**Programming Languages**
+Programming Languages
  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
-**AI / Machine Learning**
+AI / Machine Learning
  
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -104,7 +104,7 @@ As part of India Space Lab's competitive **CanSat Program**, I engineered a **du
   <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Neural%20Network%20Pruning-6A0DAD?style=for-the-badge&logoColor=white" />
 </p>
-**Embedded Systems & IoT**
+Embedded Systems & IoT
  
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
@@ -123,7 +123,7 @@ As part of India Space Lab's competitive **CanSat Program**, I engineered a **du
   <img src="https://img.shields.io/badge/RAG%20Pipelines-FF8C00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-**Tools & Platforms**
+Tools & Platforms
  
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
