@@ -56,26 +56,6 @@ As part of India Space Lab's competitive **CanSat Program**, I engineered a **du
 
 ---
 
-## What I Build
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Electronics ──────────────► Embedded AI                  │
-│        │                           │                        │
-│        ▼                           ▼                        │
-│   IoT Systems ──────────────► Intelligent Hardware         │
-│        │                           │                        │
-│        └──────────► Research ◄──────┘                       │
-│                         │                                   │
-│                         ▼                                   │
-│               Published Systems                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## Featured Projects
 
 ### Velia — Vision Enhanced Laboratory Intelligence Assistant
@@ -111,19 +91,60 @@ As part of India Space Lab's competitive **CanSat Program**, I engineered a **du
 ## Tech Stack
 
 **Programming Languages**
-`Python` · `C` · `C++`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
 **AI / Machine Learning**
-`TensorFlow` · `Keras` · `Scikit-Learn` · `NumPy` · `Pandas` · `Matplotlib` · `Machine Learning` · `Deep Learning` · `Neural Network Pruning`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Network%20Pruning-6A0DAD?style=for-the-badge&logoColor=white" />
+</p>
 
 **Embedded Systems & IoT**
-`ESP32` · `ESP8266` · `Arduino` · `Raspberry Pi` · `RFID Systems` · `Sensor Integration` · `PCB Design & Fabrication` · `Edge AI`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RFID%20Systems-009900?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB%20Design-FF6600?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge%20AI-00D4FF?style=for-the-badge&logoColor=white" />
+</p>
 
 **Backend & AI Applications**
-`FastAPI` · `Streamlit` · `RAG Pipelines` · `LLM Applications`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF8C00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 **Tools & Platforms**
-`Git & GitHub` · `VS Code` · `Jupyter Notebook` · `Arduino IDE` · `EasyEDA` · `Fritzing` · `MATLAB` · `Xilinx` · `Cadence`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyEDA-1DB954?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fritzing-EB6D2F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cadence-004B87?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
@@ -137,7 +158,15 @@ As part of India Space Lab's competitive **CanSat Program**, I engineered a **du
 
 ## Research Interests
 
-`Embedded AI` · `Neural Network Pruning` · `AI for Electronics` · `Smart Healthcare` · `Digital Twins` · `AI-Hardware Co-Design` · `Intelligent IoT`
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20AI-00D4FF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Network%20Pruning-8A2BE2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20for%20Electronics-FF6F00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart%20Healthcare-009688?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Twins-0076A8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Hardware%20Co--Design-E7352C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intelligent%20IoT-1DB954?style=flat-square&logoColor=white" />
+</p>
 
 ---
 
